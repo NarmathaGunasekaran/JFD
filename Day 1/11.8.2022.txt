@@ -1,0 +1,14 @@
+Command prompt types
+What is github
+how to use github
+basic commands in github
+how to create repositories
+intializes command 
+add command
+commit command
+status command
+remote and push command
+log command
+checkout command
+
+
