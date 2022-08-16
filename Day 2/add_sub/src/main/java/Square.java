@@ -1,5 +1,5 @@
 public class Square {
-    private int a;
+    private int a=6;
 
     public int getA() {
         return a;
