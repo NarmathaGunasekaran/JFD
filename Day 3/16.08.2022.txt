@@ -1,0 +1,7 @@
+Program using with and without arguments
+class
+object
+Scanner
+constructor
+static
+program task
