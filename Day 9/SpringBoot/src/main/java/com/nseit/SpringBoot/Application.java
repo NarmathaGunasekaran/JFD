@@ -18,12 +18,12 @@ public class Application implements CommandLineRunner {
 	}
 		@Override
 		public void run (String...args) throws Exception {
-			Todo todo = new Todo(1, "abc", false);
-			Todo todo1 = new Todo(2, "har", false);
-			Todo todo2 = new Todo(3, "nar", false);
-			todoService.add(todo);
+			Todo todo1 = new Todo(1, "abc", false);
+			Todo todo2 = new Todo(2, "har", false);
+			Todo todo3 = new Todo(3, "nar", false);
 			todoService.add(todo1);
 			todoService.add(todo2);
+			todoService.add(todo3);
 
 			todoService.view();
 
