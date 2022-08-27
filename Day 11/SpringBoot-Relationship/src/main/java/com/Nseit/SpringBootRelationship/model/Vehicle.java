@@ -6,7 +6,6 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "vehicle")
-
 @Data
 public class Vehicle {
     @Id

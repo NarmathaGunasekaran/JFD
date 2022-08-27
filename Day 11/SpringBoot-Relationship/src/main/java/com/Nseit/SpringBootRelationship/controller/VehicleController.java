@@ -12,7 +12,7 @@ public class VehicleController {
     VehicleService vehicleService;
 
     @PostMapping
-    public void add(Vehicle vehicle) {
+    public void add(@RequestBody Vehicle vehicle) {
         vehicleService.add(vehicle);
     }
 
