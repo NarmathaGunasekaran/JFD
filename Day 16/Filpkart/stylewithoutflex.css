@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.filpkart{
+	background-color: blue;
+	padding: 0;
+	color:#fff;
+	position: relative;
+	
+}
+nav{
+	text-align: center;
+	padding-top: 0px;
+	padding-left: 15%;
+	padding-right: 8%;
+	vertical-align: middle;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px 30px;
+	
+  }
+ 
+nav ul li input[type=text] {
+	padding: 5px;
+	border: 100;
+	font-size: 15px;
+}
+  
+ nav ul li a {
+	list-style: none;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: capitalize;
+ }
+ .image{
+	width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 0px;
+ }
+ .img-col{
+	float: left;
+	width: 10%;
+	padding: 5px;
+ }
