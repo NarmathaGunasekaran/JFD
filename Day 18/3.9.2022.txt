@@ -1,0 +1,10 @@
+Topics Covered
+
+
+
+API Response
+    Error response
+    Exceptions
+Logger Module
+    SLF 4J
+Admin dashboard using Bootstrap
